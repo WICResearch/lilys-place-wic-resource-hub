@@ -16,3 +16,103 @@
 .footer-brand>img{width:165px;max-height:42px;object-fit:contain;background:#fff;border-radius:7px;padding:4px 7px}
 @media(max-width:900px){.wic-brand-strip{align-items:flex-start;flex-direction:column;gap:12px}.wic-brand-logos{justify-content:flex-start;gap:18px;flex-wrap:wrap}.wic-brand-logos img{max-height:40px;max-width:160px}.wic-brand-logos .doh-logo{max-width:200px}.footer-brand>img{width:140px}}
 @media(max-width:600px){.brand-wic-mark{width:38px;height:38px}.brand strong{font-size:.9rem}.wic-brand-strip{padding:12px 18px}.wic-brand-copy span:last-child{display:none}.wic-brand-logos{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:10px 14px}.wic-brand-logos img{max-width:100%;max-height:38px}.wic-brand-logos .doh-logo{grid-column:1/-1;max-width:210px}.wic-heading-with-mark{gap:12px}.wic-heading-mark{width:54px;height:54px;border-radius:14px}.footer-brand{align-items:flex-start;flex-direction:column}.footer-brand>img{width:180px}}
+/* FORCE WIC LOGO SIZES */
+
+.brand-wic-mark{
+  width:36px !important;
+  height:36px !important;
+  max-width:36px !important;
+  max-height:36px !important;
+  object-fit:contain !important;
+}
+
+.wic-brand-strip{
+  display:flex !important;
+  align-items:center !important;
+  justify-content:space-between !important;
+  gap:24px !important;
+  padding:12px 5vw !important;
+  min-height:70px !important;
+}
+
+.wic-brand-logos{
+  display:flex !important;
+  align-items:center !important;
+  justify-content:flex-end !important;
+  gap:22px !important;
+  flex-wrap:wrap !important;
+}
+
+.wic-brand-logos img{
+  width:auto !important;
+  height:auto !important;
+  object-fit:contain !important;
+}
+
+.wic-brand-logos img:nth-child(1){
+  width:105px !important;
+  max-width:105px !important;
+  max-height:40px !important;
+}
+
+.wic-brand-logos img:nth-child(2){
+  width:135px !important;
+  max-width:135px !important;
+  max-height:45px !important;
+}
+
+.wic-brand-logos .doh-logo{
+  width:175px !important;
+  max-width:175px !important;
+  max-height:38px !important;
+}
+
+.wic-heading-mark{
+  width:50px !important;
+  height:50px !important;
+  max-width:50px !important;
+  max-height:50px !important;
+  object-fit:contain !important;
+}
+
+.learn-card-logo{
+  width:125px !important;
+  max-width:125px !important;
+  max-height:55px !important;
+  height:auto !important;
+  object-fit:contain !important;
+}
+
+.footer-brand img{
+  width:150px !important;
+  max-width:150px !important;
+  max-height:40px !important;
+  height:auto !important;
+  object-fit:contain !important;
+}
+
+@media(max-width:600px){
+  .wic-brand-strip{
+    flex-direction:column !important;
+    align-items:flex-start !important;
+  }
+
+  .wic-brand-logos{
+    justify-content:flex-start !important;
+  }
+
+  .wic-brand-logos img:nth-child(1){
+    width:85px !important;
+    max-width:85px !important;
+  }
+
+  .wic-brand-logos img:nth-child(2){
+    width:105px !important;
+    max-width:105px !important;
+  }
+
+  .wic-brand-logos .doh-logo{
+    width:140px !important;
+    max-width:140px !important;
+  }
+}
