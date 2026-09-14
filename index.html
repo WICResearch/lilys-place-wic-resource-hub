@@ -124,31 +124,37 @@
         </div>
       </div>
       <div class="wic-layout">
-        <form class="screen-card" id="eligibilityForm">
-          <div class="step-number">1</div>
-          <h3>Quick screening guide</h3>
-          <p class="muted-on-dark">This is not an official eligibility determination.</p>
-          <label>Who are you checking WIC for?
-            <select id="participantType" required>
-              <option value="">Choose one</option>
-              <option value="pregnant">Someone who is pregnant</option>
-              <option value="postpartum">Someone who recently had a baby</option>
-              <option value="breastfeeding">Someone who is breastfeeding</option>
-              <option value="infant">An infant</option>
-              <option value="child">A child under age 5</option>
-            </select>
-          </label>
-          <label>Does the applicant or household currently receive Medicaid, SNAP or TANF/WV WORKS?
-            <select id="adjunctive" required>
-              <option value="">Choose one</option>
-              <option value="yes">Yes</option>
-              <option value="no">No</option>
-              <option value="unsure">I'm not sure</option>
-            </select>
-          </label>
-          <button class="btn btn-white" type="submit">See my next step</button>
-          <div id="eligibilityResult" class="eligibility-result" aria-live="polite"></div>
-        </form>
+       <div class="screen-card">
+  <div class="step-number">1</div>
+
+  <h3>Could you qualify for WIC?</h3>
+
+  <p class="muted-on-dark">
+    Use the WV WIC Eligibility Screener to answer a few quick questions
+    and see if you may qualify for WIC benefits.
+  </p>
+
+  <img
+    src="assets/wic-screening-qr.png"
+    alt="QR code for the WV WIC Eligibility Screener"
+    class="screening-qr-image"
+  >
+
+  <a
+    class="btn btn-white full"
+    href="https://wicresearch.github.io/wic-screening-tool/"
+    target="_blank"
+    rel="noopener"
+  >
+    Check WIC Eligibility →
+  </a>
+
+  <p class="muted-on-dark" style="margin-top:14px;font-size:.8rem;">
+    Scan the QR code with your phone or select the button above.
+    The screening tool provides an estimate of potential eligibility.
+    Final WIC eligibility is determined by the WIC program.
+  </p>
+</div>
 
         <div id="apply" class="apply-card">
           <div class="step-number green">2</div>
