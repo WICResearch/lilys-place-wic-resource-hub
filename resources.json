@@ -1,0 +1,32 @@
+[
+  {
+    "id":"lilys-nas","name":"Lily's Place NAS Center","category":["lilys","health","family"],"address":"1320 7th Ave, Huntington, WV 25701","phone":"304-523-5459","lat":38.41107,"lng":-82.42820,"services":["Neonatal abstinence care","Infant care","Peer support","Case management"],"website":"https://lilysplace.org/nas-center/","verified":true
+  },
+  {
+    "id":"lilys-family","name":"Lily's Place Family Center","category":["lilys","health","family"],"address":"1235 6th Ave, Huntington, WV 25701","phone":"681-432-0600","lat":38.41415,"lng":-82.43105,"services":["Counseling","Peer recovery support","Case management","Groups"],"website":"https://lilysplace.org/","verified":true
+  },
+  {
+    "id":"lilys-children","name":"Lily's Place Children's Center","category":["lilys","health","family"],"address":"1312 7th Ave, Huntington, WV 25701","phone":"681-378-6408","lat":38.41112,"lng":-82.42865,"services":["Counseling","Case management","Prevention services","Mentorship","Youth groups"],"website":"https://lilysplace.org/childrens-center/","verified":true
+  },
+  {
+    "id":"lilys-residential","name":"Lily's Place Residential Treatment Center","category":["lilys","housing","health","family"],"address":"1439 7th Ave, Huntington, WV 25701","phone":"681-378-6503","lat":38.41067,"lng":-82.42325,"services":["Residential treatment","Pregnant and parenting women","Family support","Recovery services"],"website":"https://lilysplace.org/","verified":false
+  },
+  {
+    "id":"cabell-wic","name":"Cabell County WIC - Valley Health","category":["wic","health","family"],"address":"3246 US Route 60 #12, Huntington, WV 25705","phone":"304-302-2013","lat":38.4106,"lng":-82.3549,"services":["WIC certification","Nutrition education","Breastfeeding support","Benefits and referrals"],"website":"https://valleyhealth.org/services/wic/","verified":true
+  },
+  {
+    "id":"harmony-house","name":"Harmony House","category":["housing","food","health"],"address":"627 4th Ave, Huntington, WV 25701","phone":"304-523-2764","lat":38.41802,"lng":-82.44782,"services":["Homeless services","Housing navigation","Basic needs","Case management"],"website":"https://harmonyhousewv.com/","verified":true
+  },
+  {
+    "id":"city-mission","name":"Huntington City Mission","category":["housing","food","family"],"address":"624 10th St, Huntington, WV 25701","phone":"304-523-0293","lat":38.41563,"lng":-82.43883,"services":["Emergency shelter","Meals","Food pantry","Clothing","Case management"],"website":"https://hcmwv.org/","verified":true
+  },
+  {
+    "id":"salvation-army","name":"The Salvation Army - Huntington","category":["food","family","housing"],"address":"1223 3rd Ave, Huntington, WV 25701","phone":"304-529-2401","lat":38.42004,"lng":-82.43175,"services":["Food assistance","Clothing","Utility assistance","Family support"],"website":"https://huntington.salvationarmypotomac.org/huntingtonwv/how-we-help-1","verified":true
+  },
+  {
+    "id":"facing-hunger","name":"Facing Hunger Foodbank","category":["food","family"],"address":"1327 7th Ave, Huntington, WV 25701","phone":"304-523-6029","lat":38.41083,"lng":-82.42747,"services":["Food assistance","Pantry network","Community food resources"],"website":"https://facinghunger.org/","verified":false
+  },
+  {
+    "id":"tta","name":"Tri-State Transit Authority (TTA)","category":["transportation"],"address":"Huntington, WV","phone":"304-529-7433","lat":38.4197,"lng":-82.4452,"services":["Fixed-route bus service","Route information","Dial-A-Ride information"],"website":"https://tta-wv.com/routes-and-schedules/","verified":true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "source":"WV Map Project Data.xlsx - Data sheet, Huntington rows 25701-25705",
+  "zipCodes":[
+    {"zip":"25701","center":[38.4095,-82.4315],"under5":1086,"births":151,"births185":57.7,"medianIncome":42727,"estimatedEligible":515.7,"activeFamilies2025":294,"activeClients2025":434,"estimatedNotEnrolled2025":81.7},
+    {"zip":"25702","center":[38.4340,-82.3870],"under5":353,"births":29,"births185":15.5,"medianIncome":26860,"estimatedEligible":216.5,"activeFamilies2025":141,"activeClients2025":213,"estimatedNotEnrolled2025":3.5},
+    {"zip":"25703","center":[38.4230,-82.4240],"under5":152,"births":27,"births185":17.3,"medianIncome":19253,"estimatedEligible":127.3,"activeFamilies2025":88,"activeClients2025":137,"estimatedNotEnrolled2025":-9.7},
+    {"zip":"25704","center":[38.4020,-82.4800],"under5":685,"births":207,"births185":77.9,"medianIncome":43014,"estimatedEligible":394.0,"activeFamilies2025":231,"activeClients2025":376,"estimatedNotEnrolled2025":18.0},
+    {"zip":"25705","center":[38.4140,-82.3560],"under5":1281,"births":147,"births185":51.1,"medianIncome":51341,"estimatedEligible":534.5,"activeFamilies2025":303,"activeClients2025":464,"estimatedNotEnrolled2025":70.5}
+  ],
+  "totals":{"estimatedEligible":1788.0,"under5":3557,"births":561,"births185":219.5,"activeFamilies2025":1057,"activeClients2025":1624,"estimatedNotEnrolled2025":164.0}
+}
