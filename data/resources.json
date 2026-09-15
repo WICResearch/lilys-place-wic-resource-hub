@@ -30,6 +30,10 @@
     "id":"tta","name":"Tri-State Transit Authority (TTA)","category":["transportation"],"address":"Huntington, WV","phone":"304-529-7433","lat":38.4197,"lng":-82.4452,"services":["Fixed-route bus service","Route information","Dial-A-Ride information"],"website":"https://tta-wv.com/routes-and-schedules/","verified":true
   },
     {
+   {
     "id":"united-way-river-cities","name":"United Way of the River Cities","category":["family","food","housing","health"],"address":"820 Madison Ave, Huntington, WV 25704","phone":"304-523-8929","lat":38.4149,"lng":-82.4618,"services":["Community resource connections","Food and basic needs referrals","Housing and utility assistance referrals","Family support","Health and human service referrals"],"website":"https://unitedwayrivercities.org/","verified":true
+  },
+  {
+    "id":"cridlin-pantry","name":"Cridlin Food & Clothing Pantry","category":["food","family"],"address":"1038 6th Ave, Huntington, WV 25701","phone":"304-529-4740","lat":38.4146,"lng":-82.4366,"services":["Emergency food","Infant essentials","Hygiene products","Clothing","Cleaning supplies","Referral required through Information & Referral Services"],"website":"https://cridlinpantry.org/","verified":true
   }
 ]
