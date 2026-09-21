@@ -33,6 +33,9 @@
     "id":"united-way-river-cities","name":"United Way of the River Cities","category":["family","food","housing","health"],"address":"820 Madison Ave, Huntington, WV 25704","phone":"304-523-8929","lat":38.4149,"lng":-82.4618,"services":["Community resource connections","Food and basic needs referrals","Housing and utility assistance referrals","Family support","Health and human service referrals"],"website":"https://unitedwayrivercities.org/","verified":true
   },
   {
-    "id":"cridlin-pantry","name":"Cridlin Food & Clothing Pantry","category":["food","family"],"address":"1038 6th Ave, Huntington, WV 25701","phone":"304-529-4740","lat":38.4146,"lng":-82.4366,"services":["Emergency food","Infant essentials","Hygiene products","Clothing","Cleaning supplies","Referral required through Information & Referral Services"],"website":"https://cridlinpantry.org/","verified":true
+        "id":"cridlin-pantry","name":"Cridlin Food & Clothing Pantry","category":["food","family"],"address":"1038 6th Ave, Huntington, WV 25701","phone":"304-529-4740","lat":38.4146,"lng":-82.4366,"services":["Emergency food","Infant essentials","Hygiene products","Clothing","Cleaning supplies","Referral required through Information & Referral Services"],"website":"https://cridlinpantry.org/","verified":true
+  },
+  {
+    "id":"cabell-family-support-center","name":"Cabell County Family Support Center","category":["family","baby-child"],"address":"203 6th Ave, Huntington, WV 25701","phone":"681-378-2530","lat":38.4205,"lng":-82.4560,"services":["Parenting support","Youth and family programs","Emergency food","Hygiene kits","Diapers and baby supplies","Car seats and child safety items","Community resource navigation"],"website":"https://childhswv.org/","verified":true
   }
 ]
