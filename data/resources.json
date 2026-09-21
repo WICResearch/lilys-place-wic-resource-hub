@@ -37,5 +37,17 @@
   },
   {
     "id":"cabell-family-support-center","name":"Cabell County Family Support Center","category":["family","baby-child"],"address":"203 6th Ave, Huntington, WV 25701","phone":"681-378-2530","lat":38.4205,"lng":-82.4560,"services":["Parenting support","Youth and family programs","Emergency food","Hygiene kits","Diapers and baby supplies","Car seats and child safety items","Community resource navigation"],"website":"https://childhswv.org/","verified":true
+  },
+{
+   "id":"cabell-frn",
+    "name":"Cabell County Family Resource Network",
+    "category":["family","baby-child"],
+    "address":"2788 Collis Ave, Third Floor, Huntington, WV 25702",
+    "phone":"304-691-0231",
+    "lat":38.4286,
+    "lng":-82.4048,
+    "services":["Community resource navigation","Family support referrals","Connections to food and basic needs","Child and family resources","Community service coordination"],
+    "website":"https://www.cabellfrn.org/",
+    "verified":true
   }
 ]
