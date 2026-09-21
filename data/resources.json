@@ -122,5 +122,17 @@
     "services":["Peer recovery support","Case management","12-step meetings","Recovery support groups","Life skills and employment resources","Mental health resources","Transportation assistance","Free daycare options"],
     "website":"https://recoverypointwv.org/bridge/",
     "verified":true
+   },
+  {
+    "id":"project-shine",
+    "name":"Project Shine",
+    "category":["housing","family"],
+    "address":"800 5th Ave, Huntington, WV 25701",
+    "phone":"304-696-5540 ext. 2110",
+    "lat":38.4195,
+    "lng":-82.4454,
+    "services":["Minor exterior home repairs","Home accessibility improvements","Assistance for qualifying owner-occupied homes","Property improvement support"],
+    "website":"https://www.huntingtonshine.com/",
+    "verified":true
   }
 ]
