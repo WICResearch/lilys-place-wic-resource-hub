@@ -73,5 +73,17 @@
     "services":["Substance use disorder treatment","Clinical assessments","Medication-assisted treatment (MAT)","Peer recovery support","Individual and group therapy","On-site pharmacy","Walk-in services"],
     "website":"https://proactwv.org/",
     "verified":true
+   },
+  {
+    "id":"prestera-center",
+    "name":"Prestera Center",
+    "category":["mental-health","recovery","health","family"],
+    "address":"3375 US Route 60 E, Huntington, WV 25705",
+    "phone":"304-525-7851",
+    "lat":38.4157,
+    "lng":-82.3667,
+    "services":["Mental health services","Substance use disorder treatment","Outpatient services","Crisis services","Child and family services","Recovery support"],
+    "website":"https://prestera.org/",
+    "verified":true
   }
 ]
