@@ -97,5 +97,18 @@
     "services":["Baby clothing","Diapers and wipes","Bottles and infant supplies","Cribs and strollers","Maternity clothing","Parenting and pregnancy education","Baby supplies earned through classes and points"],
     "website":"https://www.anbprc.org/",
     "verified":true
+ 
+  },
+  {
+    "id":"cabell-huntington-hospital",
+    "name":"Cabell Huntington Hospital",
+    "category":["health","family","baby-child"],
+    "address":"1340 Hal Greer Blvd, Huntington, WV 25701",
+    "phone":"304-526-2000",
+    "lat":38.4098,
+    "lng":-82.4282,
+    "services":["Hospital and emergency care","Women's health services","Pediatric care","Neonatal intensive care","Social work and patient support","Hoops Family Children's Hospital"],
+    "website":"https://chh.marshallhealthnetwork.org/",
+    "verified":true
   }
 ]
