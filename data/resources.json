@@ -110,5 +110,17 @@
     "services":["Hospital and emergency care","Women's health services","Pediatric care","Neonatal intensive care","Social work and patient support","Hoops Family Children's Hospital"],
     "website":"https://chh.marshallhealthnetwork.org/",
     "verified":true
+  },
+  {
+    "id":"recovery-point-bridge",
+    "name":"Recovery Point Bridge",
+    "category":["recovery","mental-health","family"],
+    "address":"1040 Adams Ave, Huntington, WV 25704",
+    "phone":"304-523-4673",
+    "lat":38.4128,
+    "lng":-82.4727,
+    "services":["Peer recovery support","Case management","12-step meetings","Recovery support groups","Life skills and employment resources","Mental health resources","Transportation assistance","Free daycare options"],
+    "website":"https://recoverypointwv.org/bridge/",
+    "verified":true
   }
 ]
