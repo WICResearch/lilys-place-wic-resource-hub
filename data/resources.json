@@ -61,5 +61,17 @@
     "services":["Recovery support for pregnant and parenting women","Residential treatment","Parenting and family support","Support for mothers and children","Substance use disorder services"],
     "website":"https://www.mountainhealthnetwork.org/services/addiction-services/project-hope-for-women-children/",
     "verified":true
+   },
+  {
+    "id":"proact",
+    "name":"PROACT",
+    "category":["recovery","mental-health","health"],
+    "address":"800 20th St, Huntington, WV 25703",
+    "phone":"304-696-8700",
+    "lat":38.4215,
+    "lng":-82.4180,
+    "services":["Substance use disorder treatment","Clinical assessments","Medication-assisted treatment (MAT)","Peer recovery support","Individual and group therapy","On-site pharmacy","Walk-in services"],
+    "website":"https://proactwv.org/",
+    "verified":true
   }
-] 
+]
