@@ -49,5 +49,17 @@
     "services":["Community resource navigation","Family support referrals","Connections to food and basic needs","Child and family resources","Community service coordination"],
     "website":"https://www.cabellfrn.org/",
     "verified":true
+  },
+  {
+    "id":"project-hope-women-children",
+    "name":"Project Hope for Women & Children",
+    "category":["recovery","family","health","baby-child"],
+    "address":"1012 7th Ave, Huntington, WV 25701",
+    "phone":"304-696-4673",
+    "lat":38.4130,
+    "lng":-82.4350,
+    "services":["Recovery support for pregnant and parenting women","Residential treatment","Parenting and family support","Support for mothers and children","Substance use disorder services"],
+    "website":"https://www.mountainhealthnetwork.org/services/addiction-services/project-hope-for-women-children/",
+    "verified":true
   }
-]
+] 
