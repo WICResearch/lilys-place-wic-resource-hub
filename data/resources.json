@@ -85,5 +85,17 @@
     "services":["Mental health services","Substance use disorder treatment","Outpatient services","Crisis services","Child and family services","Recovery support"],
     "website":"https://prestera.org/",
     "verified":true
+  },
+  {
+    "id":"a-new-beginning",
+    "name":"A New Beginning",
+    "category":["baby-child","family"],
+    "address":"925 8th St, Huntington, WV 25701",
+    "phone":"304-697-0411",
+    "lat":38.4164,
+    "lng":-82.4315,
+    "services":["Baby clothing","Diapers and wipes","Bottles and infant supplies","Cribs and strollers","Maternity clothing","Parenting and pregnancy education","Baby supplies earned through classes and points"],
+    "website":"https://www.anbprc.org/",
+    "verified":true
   }
 ]
