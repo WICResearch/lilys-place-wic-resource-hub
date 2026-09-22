@@ -15,7 +15,7 @@
     "id":"cabell-wic","name":"Cabell County WIC - Valley Health","category":["wic","health","family","baby-child"],"address":"3246 US Route 60 #12, Huntington, WV 25705","phone":"304-302-2013","lat":38.4106,"lng":-82.3549,"services":["WIC certification","Nutrition education","Breastfeeding support","Benefits and referrals"],"website":"https://valleyhealth.org/services/wic/","verified":true
   },
   {
-    "id":"harmony-house","name":"Harmony House","category":["housing","food","health"],"address":"627 4th Ave, Huntington, WV 25701","phone":"304-523-2764","lat":38.41802,"lng":-82.44782,"services":["Homeless services","Housing navigation","Basic needs","Case management"],"website":"https://harmonyhousewv.com/","verified":true
+    "id":"harmony-house","name":"Harmony House","category":["housing","food","health","recovery","mental-health"],"address":"627 4th Ave, Huntington, WV 25701","phone":"304-523-2764","lat":38.41802,"lng":-82.44782,"services":["Homeless services","Housing navigation","Basic needs","Case management"],"website":"https://harmonyhousewv.com/","verified":true
   },
   {
     "id":"city-mission","name":"Huntington City Mission","category":["housing","food","family"],"address":"624 10th St, Huntington, WV 25701","phone":"304-523-0293","lat":38.41563,"lng":-82.43883,"services":["Emergency shelter","Meals","Food pantry","Clothing","Case management"],"website":"https://hcmwv.org/","verified":true
