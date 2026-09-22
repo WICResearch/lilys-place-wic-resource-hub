@@ -1,6 +1,6 @@
 [
   {
-    "id":"lilys-nas","name":"Lily's Place NAS Center","category":["lilys","health","family"],"address":"1320 7th Ave, Huntington, WV 25701","phone":"304-523-5459","lat":38.41107,"lng":-82.42820,"services":["Neonatal abstinence care","Infant care","Peer support","Case management"],"website":"https://lilysplace.org/nas-center/","verified":true
+    "id":"lilys-nas","name":"Lily's Place NAS Center","category":["lilys","health","family","baby-child"],"address":"1320 7th Ave, Huntington, WV 25701","phone":"304-523-5459","lat":38.41107,"lng":-82.42820,"services":["Neonatal abstinence care","Infant care","Peer support","Case management"],"website":"https://lilysplace.org/nas-center/","verified":true
   },
   {
     "id":"lilys-family","name":"Lily's Place Family Center","category":["lilys","health","family"],"address":"1235 6th Ave, Huntington, WV 25701","phone":"681-432-0600","lat":38.41415,"lng":-82.43105,"services":["Counseling","Peer recovery support","Case management","Groups"],"website":"https://lilysplace.org/","verified":true
