@@ -9,7 +9,7 @@
     "id":"lilys-children","name":"Lily's Place Children's Center","category":["lilys","health","family","mental-health","baby-child"],"address":"1312 7th Ave, Huntington, WV 25701","phone":"681-378-6408","lat":38.41112,"lng":-82.42865,"services":["Counseling","Case management","Prevention services","Mentorship","Youth groups"],"website":"https://lilysplace.org/childrens-center/","verified":true
   },
   {
-    "id":"lilys-residential","name":"Lily's Place Residential Treatment Center","category":["lilys","housing","health","family"],"address":"1439 7th Ave, Huntington, WV 25701","phone":"681-378-6503","lat":38.41067,"lng":-82.42325,"services":["Residential treatment","Pregnant and parenting women","Family support","Recovery services"],"website":"https://lilysplace.org/","verified":false
+    "id":"lilys-residential","name":"Lily's Place Residential Treatment Center","category":["lilys","housing","health","family","recovery","baby-child"],"address":"1439 7th Ave, Huntington, WV 25701","phone":"681-378-6503","lat":38.41067,"lng":-82.42325,"services":["Residential treatment","Pregnant and parenting women","Family support","Recovery services"],"website":"https://lilysplace.org/","verified":false
   },
   {
     "id":"cabell-wic","name":"Cabell County WIC - Valley Health","category":["wic","health","family"],"address":"3246 US Route 60 #12, Huntington, WV 25705","phone":"304-302-2013","lat":38.4106,"lng":-82.3549,"services":["WIC certification","Nutrition education","Breastfeeding support","Benefits and referrals"],"website":"https://valleyhealth.org/services/wic/","verified":true
